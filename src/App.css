@@ -28,3 +28,19 @@
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
 }
+
+.btn {
+  background-color: white;
+  padding: 0.5rem;
+  font-weight: bold;
+  border: 4px solid transparent;
+  transform: 300ms all;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn:hover{
+  cursor: pointer;
+
+}
